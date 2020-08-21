@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28ecc79a-1636-4c9d-b010-c2ab579f3348" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/40@3x-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ios" />
+  </component>
+  <component name="ProjectId" id="1gKEnej5F9uELxdUeokkeNXPqmh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28ecc79a-1636-4c9d-b010-c2ab579f3348" name="Default Changelist" comment="" />
+      <created>1597855056730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597855056730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597996764372">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state x="220" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1024.698@0.23.1024.698" timestamp="1597996764372" />
+    <state width="962" height="158" key="GridCell.Tab.0.bottom" timestamp="1598001025105">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state width="962" height="158" key="GridCell.Tab.0.bottom/0.23.1024.698@0.23.1024.698" timestamp="1598001025105" />
+    <state width="962" height="160" key="GridCell.Tab.0.bottom/0.23.1024.703@0.23.1024.703" timestamp="1597950974240" />
+    <state width="962" height="158" key="GridCell.Tab.0.center" timestamp="1598001025103">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state width="962" height="158" key="GridCell.Tab.0.center/0.23.1024.698@0.23.1024.698" timestamp="1598001025103" />
+    <state width="962" height="160" key="GridCell.Tab.0.center/0.23.1024.703@0.23.1024.703" timestamp="1597950974237" />
+    <state width="962" height="158" key="GridCell.Tab.0.left" timestamp="1598001025101">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state width="962" height="158" key="GridCell.Tab.0.left/0.23.1024.698@0.23.1024.698" timestamp="1598001025101" />
+    <state width="962" height="160" key="GridCell.Tab.0.left/0.23.1024.703@0.23.1024.703" timestamp="1597950974236" />
+    <state width="962" height="158" key="GridCell.Tab.0.right" timestamp="1598001025104">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state width="962" height="158" key="GridCell.Tab.0.right/0.23.1024.698@0.23.1024.698" timestamp="1598001025104" />
+    <state width="962" height="160" key="GridCell.Tab.0.right/0.23.1024.703@0.23.1024.703" timestamp="1597950974239" />
+    <state x="13" y="23" key="SettingsEditor" timestamp="1597995346227">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state x="13" y="23" key="SettingsEditor/0.23.1024.698@0.23.1024.698" timestamp="1597995346227" />
+    <state x="182" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1597995275693">
+      <screen x="0" y="23" width="1024" height="698" />
+    </state>
+    <state x="182" y="203" key="com.intellij.ide.util.TipDialog/0.23.1024.696@0.23.1024.696" timestamp="1597855083139" />
+    <state x="182" y="203" key="com.intellij.ide.util.TipDialog/0.23.1024.698@0.23.1024.698" timestamp="1597995275693" />
+    <state x="182" y="204" key="com.intellij.ide.util.TipDialog/0.23.1024.703@0.23.1024.703" timestamp="1597933151185" />
+    <state x="177" y="48" width="670" height="676" key="search.everywhere.popup" timestamp="1597937605335">
+      <screen x="0" y="23" width="1024" height="701" />
+    </state>
+    <state x="177" y="48" width="670" height="676" key="search.everywhere.popup/0.23.1024.701@0.23.1024.701" timestamp="1597937605335" />
+  </component>
+</project>

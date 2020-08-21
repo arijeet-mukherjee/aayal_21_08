@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.onlinedisruptor.aayal</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>aayal</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>App uses media library access for the music feature in video posts. </string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>App uses calendar to pick date of birth needed to keep a analytics for us. </string>
+	<key>NSContactsUsageDescription</key>
+	<string>App uses contacts so that user can share app to the contacts inside the application itself </string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App uses location usage to keep our analytics on track and to find which part of world is using the app more frequently </string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App uses location usage to keep our analytics on track and to find which part of world is using the app more frequently </string>
+	<key>NSMotionUsageDescription</key>
+	<string>App uses motion usage to detect if user watching the photos in leisure time or while doing some kind of work </string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>App uses photo library to download and save cutest photos of person from the app </string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>App uses speech recognition to enable in app search of data directly through speech</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>

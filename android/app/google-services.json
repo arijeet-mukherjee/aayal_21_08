@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834316414482",
+    "firebase_url": "https://aayal-s-world.firebaseio.com",
+    "project_id": "aayal-s-world",
+    "storage_bucket": "aayal-s-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834316414482:android:0e527dc636fd8bc9c3f2cb",
+        "android_client_info": {
+          "package_name": "com.onlinedisruptor.aayal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834316414482-4k3rqe11utfalfm4rje0dafflcn40rad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFbdWh07MFGJm4j1Y1E_lLQnOHw5Au1eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834316414482-4k3rqe11utfalfm4rje0dafflcn40rad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
